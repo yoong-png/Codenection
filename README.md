@@ -1,5 +1,6 @@
 # Codenection (Campus Management Track)
 - Figma Prototype
+- Pitch Deck : https://www.figma.com/slides/duxo5MMDuQaK6b22dsluWh/CampusCircle--SunTan-?node-id=7-968&t=3n0X70YUCIrRzNAH-1
 
 
 
