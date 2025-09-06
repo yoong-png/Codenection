@@ -47,6 +47,11 @@ AI will detect the parkings left in a certain zone and inform you with the best 
 This can allow you to park in areas that is safer
 For example, nearer to staircase or lift that can bring convenience when it will be late soon, at areas that have strong bright lights or areas that still have parking <br/>
 <br/>
+### Anonymous Reporting System <br/>
+Reporting system for issues like harassment, bullying or student life issues faced on campus e.g. not enough sockets in classrooms. 
+This system is a system for students to report their issues faced in school with or without locations, time and etc. It has the choice of reporting anonymously or not depending on the students will.
+However this will still be read by someone, hence inappropriate reports will be ignored. <br/>
+<br/>
 ### Admin CCTV <br/>
 The admin’s will have access of all CCTV’s and the full map while also having the ability to cross check everything 
 The map for the admin is updated with all the reports students or previous incidents that have occured with different colours linking to whether the cases were solved or not
