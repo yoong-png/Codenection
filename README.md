@@ -13,12 +13,12 @@ Here is our Figma Prototype, Pitch Deck and also the link to our Demo Video <br/
 (Mobile Application) <br/>
 <br/>
 ### **Background :** <br/>
-Campus safety has always been a concern for faculty, staff and especially for students walking alone or late at night. The vulnerability increases during evening hours, isolated campus areas, and emergency situations where immediate help may not be readily available. <br/>
+Campus safety has always been a concern for faculty, staff and especially students walking alone or late at night. The vulnerability increases during evening hours, isolated campus areas, and emergency situations where immediate help may not be readily available. <br/>
 <br/>
 ### **The problem :** <br/>
 Current safety infrastructure often lacks comprehensive coverage, real-time responsiveness, and accessibility features that address the diverse needs of the campus community, leaving gaps in protection and support. <br/>
 <br/>
-### **What the solution should solve :** <br/>
+### **Problem statement :** <br/>
 Build a one stop campus safety mobile application that helps students and staff create a safe study space that is responsive and meets the diverse needs of a campus community by ensuring the app is accessible to all. <br/>
 
 <br/>
@@ -26,33 +26,23 @@ Build a one stop campus safety mobile application that helps students and staff 
 <br/>
 
 # Brief Introdcution to our Project / Documentation
-### AR Fire Evacuation <br/>
-AR is used to detect the place you are at and provide you with the fastest route out of danger during emergencies <br/>
+### AR Evacuation <br/>
+Hold up your phone, identify your current location, and provide an AR overlay for the fastest exit route during emergencies <br/>
 <br/>
 ### AI Image Recognition <br/>
-AI is used for image recognition to check for bullying, vandalism, harassment through cctv’s
-Furthermore, it is also used for smoke or fire detection on campus from cctv’s, with the help of the AI itll provide push notification for all students in the campus/ from that campus <br/>
+Checks for bullying, vandalism, harassment, safety hazards through CCTV. Furthermore, it is also used for smoke or fire detection. It will provide push notifications for all students on campus. <br/>
 <br/>
 ### Live Location (Hazard Alert) <br/>
-Live Location acts as a map for you to walk around campus or places nearby campus but here’s the catch
-It comes with a report button that can share your location to our Admins providing them with your location when you feel unsafe around campus which will then cooperate with AI image recognition and cctv’s to check the area near that location <br/>
+Live Location acts as a map for you to walk around campus or places nearby campus. The Report button shares your location with admins, providing them with your location when you feel unsafe around campus, which then cooperates with AI image recognition and CCTV. Additionally, it allows hazard reporting. <br/>
 <br/>
-### Safe Buddy Walk  <br/>
-When its late at night or when you’re walking alone, no harm for an extra company to walk you to your destination
-It has a similar design as a dating app hut used for finding buddies as a walk partner <br/>
+### Buddy Walk  <br/>
+When it's late at night or when you’re walking alone, no harm searching for extra company to walk you to your destination. It matchmakes you to a walking partner based on your gender and location, and only allows students or staff (security). <br/>
 <br/>
-### Smart Parking Alerts <br/>
-When your location enters the parking or is nearby
-AI will detect the parkings left in a certain zone and inform you with the best parking zone and the number of parking left in that zone
-This can allow you to park in areas that is safer
-For example, nearer to staircase or lift that can bring convenience when it will be late soon, at areas that have strong bright lights or areas that still have parking <br/>
+### Parking Assistance <br/>
+When your phone enters the parking  gates or is nearby, AI will detect slot availability and inform you of the best parking zone and slots available. This allows you to park in areas that is safer. For example, nearer to staircases or lifts for convenience, or areas that have bright lighting. <br/>
 <br/>
 ### Anonymous Reporting System <br/>
-Reporting system for issues like harassment, bullying or student life issues faced on campus e.g. not enough sockets in classrooms. 
-This system is a system for students to report their issues faced in school with or without locations, time and etc. It has the choice of reporting anonymously or not depending on the students will.
-However this will still be read by someone, hence inappropriate reports will be ignored. <br/>
+Reporting system for issues like harassment, bullying, unfair treatment, or student life issues faced on campus. This system is for students to report their issues faced in school with or without locations, time and etc. It has the choice of reporting anonymously or not. However this will still be read by someone, hence inappropriate reports will be ignored. <br/>
 <br/>
 ### Admin CCTV <br/>
-The admin’s will have access of all CCTV’s and the full map while also having the ability to cross check everything 
-The map for the admin is updated with all the reports students or previous incidents that have occured with different colours linking to whether the cases were solved or not
-The role for the admin is to update the system from time to time with important information like which zone light is under maintenance or which parking zone is dangerous. They would also need to double check cctv’s when there is smoke detected before push notification to avoid false alarms. They can also work with the AI providing extra safety to students.
+The admins will have access to all CCTV’s and the full map while also having the ability to cross-check everything. The map for the admin is updated with all the reports students or previous incidents that have occurred, with different colours linking to whether the cases were solved or not. The role for the admin is to update the system from time to time with important information like which zone light is under maintenance or which parking zone is dangerous. They would also need to double check CCTVs when there is smoke detected before sending push notification to avoid false alarms. They can also work with the AI providing extra safety to students.
