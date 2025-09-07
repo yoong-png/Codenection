@@ -3,7 +3,7 @@ Here is our Figma Prototype, Pitch Deck and also the link to our Demo Video <br/
 <br/>
 - [Figma Prototype](https://www.figma.com/proto/lFbDbaQF66bWxJuduQp8TT/CampusCircle--SunTan-?node-id=2-2&p=f&t=xHAAz10STbsQQ3A2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1)
 - [Pitch Deck](https://www.figma.com/slides/duxo5MMDuQaK6b22dsluWh/CampusCircle--SunTan-?node-id=7-968&t=3n0X70YUCIrRzNAH-1)
-- [Demo Link (still empty)](h)
+- [Demo Link (still empty)](https://youtu.be/CCpzeS0eKB4)
 <br/>
 <br/>
 
